@@ -1,0 +1,39 @@
+{
+  "name": "auto-meta",
+  "version": "0.0.0",
+  "description": "automate your professional life with auto-meta",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouravsharma-00/auto-meta.git"
+  },
+  "keywords": [
+    "automate",
+    "meta",
+    "facebook",
+    "Instagram",
+    "meta",
+    "api",
+    "professional",
+    "business"
+  ],
+  "author": "gourav-sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gouravsharma-00/auto-meta/issues"
+  },
+  "homepage": "https://github.com/gouravsharma-00/auto-meta#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.5",
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
