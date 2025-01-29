@@ -6,8 +6,8 @@ export default function Footer() {
         <footer>
             <p>&copy; 2025 auto-mate</p>
             <ul>
-                <li><Link href="/privacy">Privacy Policy</Link></li>
-                <li><Link href="/terms">Terms of Use</Link></li>
+                <li><Link href="/legal/privacy">Privacy Policy</Link></li>
+                <li><Link href="/legal/terms">Terms of Use</Link></li>
             </ul>
         </footer>
     )

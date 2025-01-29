@@ -8,8 +8,8 @@ export default function Header() {
             <nav>
                 <ul>
                     <li><Link href="/">Home</Link></li>
-                    <li><Link href="/about">about</Link></li>
-                    <li><Link href="/documentation">documentation</Link></li>
+                    <li><Link href="/legal/about">about</Link></li>
+                    <li><Link href="/legal/documentation">documentation</Link></li>
                     <li><Link href="/auth/signup">signup</Link></li>
                     <li><Link href="/auth/login">login</Link></li>
                     <li><Link href="/auth/logout">logout</Link></li>
